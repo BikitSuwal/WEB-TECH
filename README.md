@@ -1,13 +1,13 @@
 # Final Project Work
 
-Development and Deployment of a Web Application
-Objective:
+##Development and Deployment of a Web Application
+### Objective:
 The purpose of this assignment is to design, develop, and
 deploy a complete web application that demonstrates the use
 of structured navigation, modular coding practices, and
 appropriate styling techniques.
 
-Task Description:
+### Task Description:
 You are required to create a functional web application that incorporates a navigation
 bar allowing users to seamlessly access different sections of the website. The application
 must meet the following requirements:
