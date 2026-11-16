@@ -27,14 +27,14 @@ content.
 and maintainable code.
 - Link external CSS and JavaScript files rather than embedding code inline or
 internally.
-- Deployment
-1. Research and utilize a free web hosting service (e.g., Mercantile, GitHub Pages, or
+3. Deployment
+- Research and utilize a free web hosting service (e.g., Mercantile, GitHub Pages, or
 equivalent) to publish the application online.
-2. Provide the live link to your deployed application along with your submission.
-Deliverables:
--Source code of the web application (HTML, CSS, JavaScript).
+- Provide the live link to your deployed application along with your submission.
+4. Deliverables:
+- Source code of the web application (HTML, CSS, JavaScript).
 - A short report (5+ pages) documenting:
 - The design decisions made (layout, styling, and navigation).
--  The deployment process followed.
--  The hosting service selected and the justification for its use.
+- The deployment process followed.
+- The hosting service selected and the justification for its use.
 - URL to the live deployed application.
