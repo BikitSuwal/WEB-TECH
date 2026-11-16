@@ -11,30 +11,30 @@ appropriate styling techniques.
 You are required to create a functional web application that incorporates a navigation
 bar allowing users to seamlessly access different sections of the website. The application
 must meet the following requirements:
-1.Pages and Navigation
-• Develop at least three web pages:
-1.Home Page
-2. About Us Page
-3. Contact Page
-• Implement a navigation bar with links to each of these pages, ensuring smooth
+1. Pages and Navigation
+- Develop at least three web pages:
+  1. Home Page
+  2. About Us Page
+  3. Contact Page
+- Implement a navigation bar with links to each of these pages, ensuring smooth
 navigation when links are selected.
 2.Design and Layout
-• Apply appropriate CSS layout techniques (e.g., Flexbox, Grid) to structure the
+- Apply appropriate CSS layout techniques (e.g., Flexbox, Grid) to structure the
 content.
-• Incorporate icons within the navigation bar to enhance usability and aesthetics.
-• Ensure that all content is properly aligned, with justified text where appropriate.
-• Emphasize reusability by separating content, styling, and behavior using modular
+- Incorporate icons within the navigation bar to enhance usability and aesthetics.
+- Ensure that all content is properly aligned, with justified text where appropriate.
+- Emphasize reusability by separating content, styling, and behavior using modular
 and maintainable code.
-• Link external CSS and JavaScript files rather than embedding code inline or
+- Link external CSS and JavaScript files rather than embedding code inline or
 internally.
-• Deployment
+- Deployment
 1. Research and utilize a free web hosting service (e.g., Mercantile, GitHub Pages, or
 equivalent) to publish the application online.
 2. Provide the live link to your deployed application along with your submission.
 Deliverables:
-•Source code of the web application (HTML, CSS, JavaScript).
-•A short report (5+ pages) documenting:
-• The design decisions made (layout, styling, and navigation).
-• The deployment process followed.
-• The hosting service selected and the justification for its use.
-•URL to the live deployed application.
+-Source code of the web application (HTML, CSS, JavaScript).
+- A short report (5+ pages) documenting:
+- The design decisions made (layout, styling, and navigation).
+-  The deployment process followed.
+-  The hosting service selected and the justification for its use.
+- URL to the live deployed application.
